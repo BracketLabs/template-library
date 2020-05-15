@@ -1,0 +1,23 @@
+{
+  "name": "template-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "dependencies": {
+    "papaparse": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BracketLabs/template-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/BracketLabs/template-library/issues"
+  },
+  "homepage": "https://github.com/BracketLabs/template-library#readme"
+}
