@@ -1,5 +1,0 @@
-Id,Name,TASKRAY__Project_Task__c,TASKRAY__Completed__c,TASKRAY__SortOrder__c,TASKRAY__trChecklistGroup__c,TASKRAY__trLongName__c
-$Item1,Identify key areas for training,$Task1,false,1,$Group1,Identify key areas for training
-$Item2,Prepare training agenda,$Task1,false,2,$Group1,Prepare training agenda
-$Item3,Send out training agenda to attendees,$Task1,false,3,$Group1,Send out training agenda to attendees
-$Item4,Identify success metrics,$Task1,false,0,$Group1,Identify success metrics

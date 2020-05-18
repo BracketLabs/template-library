@@ -34,6 +34,20 @@ For example putting `$Project1` in a task `TASKRAY__Project__c` column will rela
 
 A preview png image with a size of {todo} and name after the template id should be included in the screens folder.
 
+### Include in the list
+
+Currently only one list file is supported. Template will only show up in the library if included folowing below structure:
+
+```
+  {
+    "id": "{templateId}",
+    "title": "{title}",
+    "description": "{description}"
+  }
+```
+
+This patern can be used in the future to provide diffrent list for different usecases.
+
 ### Generate template
 
 To generate the json file call:

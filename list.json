@@ -1,8 +1,7 @@
 [
   {
-    "id": "template1",
-    "title": "Best Practices Template - Customer Onboarding",
-    "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque.",
-    "media": "/screens/screen.png"
+    "id": "day-one",
+    "title": "Day One & Beyond",
+    "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque."
   }
 ]
