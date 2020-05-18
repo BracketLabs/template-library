@@ -1,20 +1,8 @@
 [
   {
-    "id": "1",
+    "id": "template1",
     "title": "Best Practices Template - Customer Onboarding",
     "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque.",
-    "media": "/screen.png"
-  },
-  {
-    "id": "2",
-    "title": "SaaS - Customer Onboarding Template",
-    "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque.",
-    "media": "/screen2.png"
-  },
-  {
-    "id": "3",
-    "title": "Wealth Management - Client Onboarding",
-    "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque.",
-    "media": "/screen3.png"
+    "media": "/screens/screen.png"
   }
 ]
