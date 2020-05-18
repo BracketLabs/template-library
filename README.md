@@ -4,14 +4,16 @@ A repository of taskray templates available in both csv or json. This is used to
 
 ## Public endpoint
 
-The library resources can be accesed here:
+The library resources can be accessed here:
+
 `https://bracketlabs.github.io/template-library`
+
 note: this may change once released
 
 ## Copy templates
 
 You can copy a set of csvs in a folder with the id of the template as the name.
-Each csv file needs to follow the below namng convertion. Any objects not includesd in the list below are not supported yet.
+Each csv file needs to follow the below name convention. Any objects not included in the list below are not supported yet.
 
 | ObjectName     |      Filename       |
 | -------------- | :-----------------: |
@@ -36,7 +38,7 @@ A preview png image with a size of {todo} and name after the template id should 
 
 ### Include in the list
 
-Currently only one list file is supported. Template will only show up in the library if included folowing below structure:
+Currently only one list file is supported. Template will only show up in the library if included following below structure:
 
 ```
   {
@@ -46,7 +48,7 @@ Currently only one list file is supported. Template will only show up in the lib
   }
 ```
 
-This patern can be used in the future to provide diffrent list for different usecases.
+This pattern can be used in the future to provide different lists for different use cases.
 
 ### Generate template
 
@@ -56,4 +58,4 @@ To generate the json file call:
 
 ### Deploy
 
-The template are deployed once pushed to origin master.
+The templates are deployed once pushed to origin master.
