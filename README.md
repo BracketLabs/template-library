@@ -26,7 +26,7 @@ Each csv file needs to follow the below name convention. Any objects not include
 
 ### Relationships
 
-Id columns are ignore and can be removed from your csvs. In order to relate a child to a parent you can follow this pattern:
+Id columns are ignored and can be removed from your csvs. In order to relate a child to a parent you can follow this pattern:
 
 `${ObjectName}{csv_row_number}`
 
