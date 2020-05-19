@@ -1,2 +1,2 @@
 Id,OwnerId,Name,RecordTypeId,TASKRAY__Dependent_Update_Pending__c,TASKRAY__ProjectColor__c,TASKRAY__Project_Parent__c,TASKRAY__Status__c,TASKRAY__trAvailableExternal__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trTemplate__c,TASKRAY__trCompleted__c,TASKRAY__trAddFormsGuestUserToProjectTeam__c,TASKRAY__trGenerateOnboardingFeedbackForm__c,TASKRAY__trCloneOperationComplete__c
-$Project1,$User: Alex Medrano,Day One & Beyond,0125w000001DGLeAAO,false,#364444,a025w00000n8XKjAAM,false,false,0.00,true,false,false,false,false
+$Project1,$User: Alex Medrano,Day One & Beyond,0125w000000FZpyAAG,false,#364444,a025w00000n8XKjAAM,false,false,0.00,true,false,false,false,false
