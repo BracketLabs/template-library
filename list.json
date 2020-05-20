@@ -3,5 +3,10 @@
     "id": "day-one",
     "title": "Day One & Beyond",
     "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque."
+  },
+  {
+    "id": "back2werk",
+    "title": "Going Back to Work!",
+    "description": "This template is for reopening your office."
   }
 ]

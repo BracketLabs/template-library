@@ -1,0 +1,51 @@
+Id,OwnerId,Name,TASKRAY__SortOrder__c,TASKRAY__TaskForGroup__c,TASKRAY__trAvailableExternal__c
+$Group1,$User: Alex Medrano,Business Continuity Checklist,0,$Task6,false
+$Group2,$User: Alex Medrano,Sick Leave Checklist,0,$Task2,false
+$Group3,$User: Alex Medrano,Sick Leave Considerations,1,$Task2,false
+$Group4,$User: Alex Medrano,WFH Policies Checklist,0,$Task3,false
+$Group5,$User: Alex Medrano,Sick Leave Resources,2,$Task2,false
+$Group6,$User: Alex Medrano,Head Count Considerations,0,$Task79,false
+$Group7,$User: Alex Medrano,PPE & Social Distancing Considerations,1,$Task9,false
+$Group8,$User: Alex Medrano,PPE & Social Distancing Resources,2,$Task9,false
+$Group9,$User: Alex Medrano,Local Health Officials Checklist,0,$Task10,false
+$Group10,$User: Alex Medrano,Reception Protocols Checklist,0,$Task62,false
+$Group11,$User: Alex Medrano,Elevator & Escalator Considerations,1,$Task18,false
+$Group12,$User: Alex Medrano,Parking Considerations,0,$Task66,false
+$Group13,$User: Alex Medrano,Entrance/Reception Signage Considerations,0,$Task49,false
+$Group14,$User: Alex Medrano,Food Service Considerations,0,$Task24,false
+$Group15,$User: Alex Medrano,Food Service Resources,1,$Task24,false
+$Group16,$User: Alex Medrano,Shared Storage Considerations,0,$Task34,false
+$Group17,$User: Alex Medrano,Elevator & Escalator Protocols Checklist,0,$Task18,false
+$Group18,$User: Alex Medrano,Restroom Considerations,0,$Task20,false
+$Group19,$User: Alex Medrano,Shared Kitchen Resources,1,$Task41,false
+$Group20,$User: Alex Medrano,Traffic Flow/Circulation Considerations,0,$Task51,false
+$Group21,$User: Alex Medrano,Shipping & Receiving Rersources,2,$Task50,false
+$Group22,$User: Alex Medrano,Workspace/Desk Use Considerations,0,$Task65,false
+$Group23,$User: Alex Medrano,Tracking Checklist,0,$Task8,false
+$Group24,$User: Alex Medrano,Shipping & Receiving Considerations,0,$Task50,false
+$Group25,$User: Alex Medrano,Entrance Protocols Considerations,1,$Task59,false
+$Group26,$User: Alex Medrano,Cleaning Considerations,0,$Task97,false
+$Group27,$User: Alex Medrano,Tracking Resources,1,$Task8,false
+$Group28,$User: Alex Medrano,Entrance Protocols Checklist,0,$Task59,false
+$Group29,$User: Alex Medrano,Meeting/Conference Room Considerations,0,$Task37,false
+$Group30,$User: Alex Medrano,Entrance Protocols Resources,2,$Task59,false
+$Group31,$User: Alex Medrano,Shared Equipment Considerations,0,$Task64,false
+$Group32,$User: Alex Medrano,Reception Protocols Considerations,1,$Task62,false
+$Group33,$User: Alex Medrano,Training Room/Classroom Considerations,0,$Task30,false
+$Group34,$User: Alex Medrano,Workspace Layout Considerations,0,$Task43,false
+$Group35,$User: Alex Medrano,Use & Density Considerations,0,$Task67,false
+$Group36,$User: Alex Medrano,Fitness Facility Considerations,0,$Task26,false
+$Group37,$User: Alex Medrano,Shared Kitchen Considerations,0,$Task41,false
+$Group38,$User: Alex Medrano,Light & Power Switch Considerations,0,$Task72,false
+$Group39,$User: Alex Medrano,Door & Handle Considerations,0,$Task75,false
+$Group40,$User: Alex Medrano,“New Normal” Training Considerations,0,$Task103,false
+$Group41,$User: Alex Medrano,Response Team Considerations,0,$Task1,false
+$Group42,$User: Alex Medrano,Cleaning Resources,1,$Task97,false
+$Group43,$User: Alex Medrano,Rules of Conduct Considerations,0,$Task101,false
+$Group44,$User: Alex Medrano,Cleaning & Disinfecting Checklist,0,$Task80,false
+$Group45,$User: Alex Medrano,Health & Safety Protocol Consideration,0,$Task83,false
+$Group46,$User: Alex Medrano,Facility Advisor Considerations,0,$Task88,false
+$Group47,$User: Alex Medrano,Pre-Return Communication Strategy Considerations,0,$Task96,false
+$Group48,$User: Alex Medrano,Reopening Resources,0,$Task111,false
+$Group49,$User: Alex Medrano,Reopening Consideration,2,$Task111,false
+$Group50,$User: Alex Medrano,Response Team Considerations,0,$Task81,false
