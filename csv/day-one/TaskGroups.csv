@@ -1,6 +1,0 @@
-Id,Name,TASKRAY__Project__c,TASKRAY__trArchived__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trSortOrder__c,TASKRAY__trCompleted__c,TASKRAY__trCloneOperationComplete__c
-$TaskGroup1,Building Perimeter,$Project1,false,0,0,false,false
-$TaskGroup2,"Commuting, transportation, and vehicles",$Project1,false,0,1,false,false
-$TaskGroup3,Shipping and receiving areas,$Project1,false,0,4,false,false
-$TaskGroup4,Lobbies/common areas/amenities,$Project1,false,0,2,false,false
-$TaskGroup5,Elevators and escalators,$Project1,false,0,3,false,false

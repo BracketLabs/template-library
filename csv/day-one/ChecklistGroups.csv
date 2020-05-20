@@ -1,8 +1,0 @@
-Id,OwnerId,Name,TASKRAY__SortOrder__c,TASKRAY__TaskForGroup__c,TASKRAY__trAvailableExternal__c
-$Group1,$User: Alex Medrano,Food Service checklist,0,$Task20,false
-$Group2,$User: Alex Medrano,Signage checklist,0,$Task7,false
-$Group3,$User: Alex Medrano,PPE and cleaning checklist,0,$Task8,false
-$Group4,$User: Alex Medrano,Fitness facilities checklist,0,$Task21,false
-$Group5,$User: Alex Medrano,Cleaning plans checklist,0,$Task15,false
-$Group6,$User: Alex Medrano,Public transportation checklist,0,$Task28,false
-$Group7,$User: Alex Medrano,Reception checklist,0,$Task6,false

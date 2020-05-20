@@ -1,2 +1,0 @@
-Id,OwnerId,Name,TASKRAY__Dependent_Update_Pending__c,TASKRAY__ProjectColor__c,TASKRAY__Project_Parent__c,TASKRAY__Status__c,TASKRAY__trAvailableExternal__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trTemplate__c,TASKRAY__trCompleted__c,TASKRAY__trAddFormsGuestUserToProjectTeam__c,TASKRAY__trGenerateOnboardingFeedbackForm__c,TASKRAY__trCloneOperationComplete__c
-$Project1,$User: Alex Medrano,Day One & Beyond,,false,#364444,false,false,0.00,true,false,false,false,false

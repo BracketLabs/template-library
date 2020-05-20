@@ -1,0 +1,6 @@
+Id,Name,TASKRAY__Project__c,TASKRAY__trArchived__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trEndDate__c,TASKRAY__trSortOrder__c,TASKRAY__trStartDate__c,TASKRAY__trActualHours__c,TASKRAY__trCompleted__c,TASKRAY__trInitialProjectedCompletionDate__c,TASKRAY__trCloneOperationComplete__c
+$TaskGroup1,PRE-CLOSING PREPARATION,$Project1,false,0,$T+30,0,$T+18,0.00,false,$T+30,false
+$TaskGroup2,EVACUATE FACILITY,$Project1,false,0,$T+29,1,$T+27,0.00,false,$T+29,false
+$TaskGroup3,SHUT DOWN FACILITY,$Project1,false,0,$T+42,2,$T+27,0.00,false,$T+42,false
+$TaskGroup4,ONCE OFFSITE,$Project1,false,0,$T+49,3,$T+42,0.00,false,$T+49,false
+$TaskGroup5,DURING CLOSURE,$Project1,false,0,$T+59,4,$T+48,0.00,false,$T+59,false

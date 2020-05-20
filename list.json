@@ -1,12 +1,12 @@
 [
   {
-    "id": "day-one",
-    "title": "Day One & Beyond",
-    "description": "Suspendisse in libero eget purus egestas finibus sit amet hendrerit orci. Curabitur eu mi aliquet, tincidunt nisi vitae, elementum neque."
+    "id": "location-opening",
+    "title": "TaskRay Return to Work Template",
+    "description": "This template was created from government guidance and industry experts."
   },
   {
-    "id": "back2werk",
-    "title": "Going Back to Work!",
-    "description": "This template is for reopening your office."
+    "id": "location-closing",
+    "title": "TaskRay Location Closing Template",
+    "description": "This template was created from government guidance and industry experts."
   }
 ]
