@@ -7,11 +7,11 @@ $Item5,Educate managers and employees,$Task3,false,1,$Group4,Educate managers an
 $Item6,Permit employees to stay home to care for a sick family member,$Task2,false,1,$Group3,Permit employees to stay home to care for a sick family member,$User: Alex Medrano
 $Item7,"Review, modify & document flexible working policies",$Task3,false,0,$Group4,"Review, modify & document flexible working policies",$User: Alex Medrano
 $Item8,"Require employees who become sick to notify their supervisor, stay home and call",$Task2,false,2,$Group3,"Require employees who become sick to notify their supervisor, stay home and call a healthcare provider for advice if needed",$User: Alex Medrano
-$Item9,Do a walk through to identify areas of risk/concerns (take pictures),$Task59,false,0,$Group28,Do a walk through to identify areas of risk/concerns (take pictures),$User: Alex Medrano
+$Item9,Do a walk through to identify areas of risk/concerns (take pictures),$Task59,false,0,$Group26,Do a walk through to identify areas of risk/concerns (take pictures),$User: Alex Medrano
 $Item10,Determine what you to do it counts exceed safe limits,$Task79,false,0,$Group6,Determine what you to do it counts exceed safe limits,$User: Alex Medrano
 $Item11,Clearly signpost queuing areas,$Task24,false,4,$Group14,Clearly signpost queuing areas,$User: Alex Medrano
-$Item12,Enhance cleaning plans to ensure proper on-going cleaning of high touch surfaces,$Task97,false,0,$Group26,Enhance cleaning plans to ensure proper on-going cleaning of high touch surfaces,$User: Alex Medrano
-$Item13,Ensure compliance w/current health & safety regulations in your areas,$Task97,false,3,$Group26,Ensure compliance w/current health & safety regulations in your areas,$User: Alex Medrano
+$Item12,Enhance cleaning plans to ensure proper on-going cleaning of high touch surfaces,$Task97,false,0,$Group25,Enhance cleaning plans to ensure proper on-going cleaning of high touch surfaces,$User: Alex Medrano
+$Item13,Ensure compliance w/current health & safety regulations in your areas,$Task97,false,3,$Group25,Ensure compliance w/current health & safety regulations in your areas,$User: Alex Medrano
 $Item14,Contact local public health department to obtain local guidance/rules,$Task10,false,0,$Group9,Contact local public health department to obtain local guidance/rules,$User: Alex Medrano
 $Item15,Determine how you will operate if absenteeism spikes,$Task6,false,0,$Group1,Determine how you will operate if absenteeism spikes,$User: Alex Medrano
 $Item16,Identify alternative suppliers,$Task6,false,1,$Group1,Identify alternative suppliers,$User: Alex Medrano
@@ -23,16 +23,16 @@ $Item21,Prioritize customers,$Task6,false,2,$Group1,Prioritize customers,$User: 
 $Item22,PPE Sources: https://energizecolorado.com/get-ppe-and-supplies/,$Task9,false,1,$Group8,PPE Sources: https://energizecolorado.com/get-ppe-and-supplies/,$User: Alex Medrano
 $Item23,CDC Printable Signage: https://www.cdc.gov/nonpharmaceutical-interventions/tools,$Task9,false,5,$Group8,CDC Printable Signage: https://www.cdc.gov/nonpharmaceutical-interventions/tools-resources/educational-materials.html,$User: Alex Medrano
 $Item24,Social Distancing Worksheet: https://docs.google.com/document/d/1BqYmwsMb4jnSa4o,$Task9,false,2,$Group8,Social Distancing Worksheet: https://docs.google.com/document/d/1BqYmwsMb4jnSa4ovPRsWFUlVCnh_u7NX/edit,$User: Alex Medrano
-$Item25,Sanitize incoming shipments and deliveries—OR—hold in receiving area for 24-48 h,$Task50,false,6,$Group24,Sanitize incoming shipments and deliveries—OR—hold in receiving area for 24-48 hours,$User: Alex Medrano
-$Item26,Reduce capacity of spaces (e.g. remove chairs from large rooms),$Task37,false,6,$Group29,Reduce capacity of spaces (e.g. remove chairs from large rooms),$User: Alex Medrano
-$Item27,Add sensors to monitor use of workspace (use data to modify use),$Task67,false,2,$Group35,Add sensors to monitor use of workspace (use data to modify use),$User: Alex Medrano
+$Item25,Sanitize incoming shipments and deliveries—OR—hold in receiving area for 24-48 h,$Task50,false,6,$Group23,Sanitize incoming shipments and deliveries—OR—hold in receiving area for 24-48 hours,$User: Alex Medrano
+$Item26,Reduce capacity of spaces (e.g. remove chairs from large rooms),$Task37,false,6,$Group27,Reduce capacity of spaces (e.g. remove chairs from large rooms),$User: Alex Medrano
+$Item27,Add sensors to monitor use of workspace (use data to modify use),$Task67,false,2,$Group33,Add sensors to monitor use of workspace (use data to modify use),$User: Alex Medrano
 $Item28,Install signage explaining building access rules and other traffic flow protocol,$Task49,false,0,$Group13,Install signage explaining building access rules and other traffic flow protocols in relevant locations,$User: Alex Medrano
-$Item29,Test front-line reception personnel on a regular basis,$Task62,false,0,$Group32,Test front-line reception personnel on a regular basis,$User: Alex Medrano
-$Item30,Remove or disable registration kiosks/touchscreens,$Task62,false,4,$Group32,Remove or disable registration kiosks/touchscreens,$User: Alex Medrano
-$Item31,Touchless registration via personal mobile phone,$Task62,false,5,$Group32,Touchless registration via personal mobile phone,$User: Alex Medrano
-$Item32,Disposable security tags (stickers) instead of reusable clips or lanyards for gu,$Task62,false,6,$Group32,Disposable security tags (stickers) instead of reusable clips or lanyards for guest identification,$User: Alex Medrano
-$Item33,Remove reception furniture,$Task62,false,7,$Group32,Remove reception furniture,$User: Alex Medrano
-$Item34,"Provide sanitizer, wipes and PPE to building employees/guests",$Task62,false,8,$Group32,"Provide sanitizer, wipes and PPE to building employees/guests",$User: Alex Medrano
+$Item29,Test front-line reception personnel on a regular basis,$Task62,false,0,$Group30,Test front-line reception personnel on a regular basis,$User: Alex Medrano
+$Item30,Remove or disable registration kiosks/touchscreens,$Task62,false,4,$Group30,Remove or disable registration kiosks/touchscreens,$User: Alex Medrano
+$Item31,Touchless registration via personal mobile phone,$Task62,false,5,$Group30,Touchless registration via personal mobile phone,$User: Alex Medrano
+$Item32,Disposable security tags (stickers) instead of reusable clips or lanyards for gu,$Task62,false,6,$Group30,Disposable security tags (stickers) instead of reusable clips or lanyards for guest identification,$User: Alex Medrano
+$Item33,Remove reception furniture,$Task62,false,7,$Group30,Remove reception furniture,$User: Alex Medrano
+$Item34,"Provide sanitizer, wipes and PPE to building employees/guests",$Task62,false,8,$Group30,"Provide sanitizer, wipes and PPE to building employees/guests",$User: Alex Medrano
 $Item35,"Review, modify & document elevator and escalator protocols and procedures",$Task18,false,0,$Group17,"Review, modify & document elevator and escalator protocols and procedures",$User: Alex Medrano
 $Item36,Communicate new protocols to employees/tenants,$Task18,false,1,$Group17,Communicate new protocols to employees/tenants,$User: Alex Medrano
 $Item37,Install signage explaining elevator/escalator use,$Task18,false,2,$Group17,Install signage explaining elevator/escalator use,$User: Alex Medrano
@@ -41,164 +41,161 @@ $Item39,Staggering arrival times to reduce traffic entering facility from parkin
 $Item40,Disposable mask dispensing station if first point of entry,$Task66,false,1,$Group12,Disposable mask dispensing station if first point of entry,$User: Alex Medrano
 $Item41,Installing touchless hardware / systems that allow the opening and closing of ba,$Task20,false,0,$Group18,Installing touchless hardware / systems that allow the opening and closing of bathroom doors,$User: Alex Medrano
 $Item42,Floor stickers inside elevators to show people where to stand,$Task18,false,4,$Group11,Floor stickers inside elevators to show people where to stand,$User: Alex Medrano
-$Item43,Add touch-free hand sanitizer dispensers inside and outside doorways,$Task59,false,6,$Group25,Add touch-free hand sanitizer dispensers inside and outside doorways,$User: Alex Medrano
+$Item43,Add touch-free hand sanitizer dispensers inside and outside doorways,$Task59,false,6,$Group24,Add touch-free hand sanitizer dispensers inside and outside doorways,$User: Alex Medrano
 $Item44,Socially distanced queues for waiting passengers,$Task18,false,1,$Group11,Socially distanced queues for waiting passengers,$User: Alex Medrano
 $Item45,Escalators: signage telling passengers where to stand and directing them not to,$Task18,false,5,$Group11,Escalators: signage telling passengers where to stand and directing them not to pass,$User: Alex Medrano
 $Item46,Rearrange equipment to achieve social distancing,$Task24,false,3,$Group14,Rearrange equipment to achieve social distancing,$User: Alex Medrano
 $Item47,Food Safety: https://www.sfcdcp.org/wp-content/uploads/2020/04/COVID19-Food-Deli,$Task24,false,0,$Group15,Food Safety: https://www.sfcdcp.org/wp-content/uploads/2020/04/COVID19-Food-Delivery-Guidance-FINAL-04.16.2020.pdf,$User: Alex Medrano
-$Item48,Modify bicycle storage unit/area policies,$Task26,false,1,$Group36,Modify bicycle storage unit/area policies,$User: Alex Medrano
-$Item49,"Require use of face masks in fitness facilities (provide disposable, if possible",$Task26,false,2,$Group36,"Require use of face masks in fitness facilities (provide disposable, if possible)",$User: Alex Medrano
-$Item50,Remove magazines,$Task26,false,4,$Group36,Remove magazines,$User: Alex Medrano
-$Item51,Rearrange equipment to achieve social distancing,$Task26,false,5,$Group36,Rearrange equipment to achieve social distancing,$User: Alex Medrano
-$Item52,Install touchless access,$Task26,false,6,$Group36,Install touchless access,$User: Alex Medrano
+$Item48,Modify bicycle storage unit/area policies,$Task26,false,1,$Group34,Modify bicycle storage unit/area policies,$User: Alex Medrano
+$Item49,"Require use of face masks in fitness facilities (provide disposable, if possible",$Task26,false,2,$Group34,"Require use of face masks in fitness facilities (provide disposable, if possible)",$User: Alex Medrano
+$Item50,Remove magazines,$Task26,false,4,$Group34,Remove magazines,$User: Alex Medrano
+$Item51,Rearrange equipment to achieve social distancing,$Task26,false,5,$Group34,Rearrange equipment to achieve social distancing,$User: Alex Medrano
+$Item52,Install touchless access,$Task26,false,6,$Group34,Install touchless access,$User: Alex Medrano
 $Item53,"Install directional signage/floor markings at multiple, relevant locations in th",$Task49,false,1,$Group13,"Install directional signage/floor markings at multiple, relevant locations in the entry sequence",$User: Alex Medrano
-$Item54,Temporarily close classrooms/training rooms,$Task30,false,0,$Group33,Temporarily close classrooms/training rooms,$User: Alex Medrano
-$Item55,Reduce classroom capacities/rearrange seating to allow for social distancing,$Task30,false,1,$Group33,Reduce classroom capacities/rearrange seating to allow for social distancing,$User: Alex Medrano
+$Item54,Temporarily close classrooms/training rooms,$Task30,false,0,$Group31,Temporarily close classrooms/training rooms,$User: Alex Medrano
+$Item55,Reduce classroom capacities/rearrange seating to allow for social distancing,$Task30,false,1,$Group31,Reduce classroom capacities/rearrange seating to allow for social distancing,$User: Alex Medrano
 $Item56,Secure/lock supplies storage,$Task34,false,0,$Group16,Secure/lock supplies storage,$User: Alex Medrano
-$Item57,Disable/decommission room reservation panels outside meeting rooms,$Task37,false,0,$Group29,Disable/decommission room reservation panels outside meeting rooms,$User: Alex Medrano
-$Item58,Remove shared conference phones and encourage the use of personal mobile phones,$Task37,false,1,$Group29,Remove shared conference phones and encourage the use of personal mobile phones or laptop softphones for teleconferences,$User: Alex Medrano
+$Item57,Disable/decommission room reservation panels outside meeting rooms,$Task37,false,0,$Group27,Disable/decommission room reservation panels outside meeting rooms,$User: Alex Medrano
+$Item58,Remove shared conference phones and encourage the use of personal mobile phones,$Task37,false,1,$Group27,Remove shared conference phones and encourage the use of personal mobile phones or laptop softphones for teleconferences,$User: Alex Medrano
 $Item59,Offer only pre-packaged foods,$Task24,false,1,$Group14,Offer only pre-packaged foods,$User: Alex Medrano
-$Item60,Colorado Dept of Health Screening guidance:  https://covid19.colorado.gov/sympto,$Task59,false,0,$Group30,Colorado Dept of Health Screening guidance:  https://covid19.colorado.gov/symptom-screening,$User: Alex Medrano
-$Item61,Assign delivery management and sterilization to specific employee(s),$Task50,false,2,$Group24,Assign delivery management and sterilization to specific employee(s),$User: Alex Medrano
-$Item62,Remove whiteboard pens and erasers and encourage individuals to bring and manage,$Task37,false,2,$Group29,Remove whiteboard pens and erasers and encourage individuals to bring and manage their own,$User: Alex Medrano
-$Item63,Remove remote control handsets and provide instructions for manual equipment use,$Task37,false,4,$Group29,Remove remote control handsets and provide instructions for manual equipment use instead,$User: Alex Medrano
-$Item64,Decommission or repurpose rooms that can not serve as meeting rooms under social,$Task37,false,5,$Group29,Decommission or repurpose rooms that can not serve as meeting rooms under social distancing guidelines,$User: Alex Medrano
-$Item65,Provide prepackaged items,$Task41,false,3,$Group37,Provide prepackaged items,$User: Alex Medrano
-$Item66,Provide single use gloves,$Task41,false,6,$Group37,Provide single use gloves,$User: Alex Medrano
-$Item67,Use alternate desks,$Task43,false,0,$Group34,Use alternate desks,$User: Alex Medrano
-$Item68,Temporarily close fitness facilities,$Task26,false,0,$Group36,Temporarily close fitness facilities,$User: Alex Medrano
-$Item69,Reduce entry points in order to monitor incoming traffic,$Task59,false,2,$Group25,Reduce entry points in order to monitor incoming traffic,$User: Alex Medrano
+$Item60,Colorado Dept of Health Screening guidance:  https://covid19.colorado.gov/sympto,$Task59,false,0,$Group28,Colorado Dept of Health Screening guidance:  https://covid19.colorado.gov/symptom-screening,$User: Alex Medrano
+$Item61,Assign delivery management and sterilization to specific employee(s),$Task50,false,2,$Group23,Assign delivery management and sterilization to specific employee(s),$User: Alex Medrano
+$Item62,Remove whiteboard pens and erasers and encourage individuals to bring and manage,$Task37,false,2,$Group27,Remove whiteboard pens and erasers and encourage individuals to bring and manage their own,$User: Alex Medrano
+$Item63,Remove remote control handsets and provide instructions for manual equipment use,$Task37,false,4,$Group27,Remove remote control handsets and provide instructions for manual equipment use instead,$User: Alex Medrano
+$Item64,Decommission or repurpose rooms that can not serve as meeting rooms under social,$Task37,false,5,$Group27,Decommission or repurpose rooms that can not serve as meeting rooms under social distancing guidelines,$User: Alex Medrano
+$Item65,Provide prepackaged items,$Task41,false,3,$Group35,Provide prepackaged items,$User: Alex Medrano
+$Item66,Provide single use gloves,$Task41,false,6,$Group35,Provide single use gloves,$User: Alex Medrano
+$Item67,Use alternate desks,$Task43,false,0,$Group32,Use alternate desks,$User: Alex Medrano
+$Item68,Temporarily close fitness facilities,$Task26,false,0,$Group34,Temporarily close fitness facilities,$User: Alex Medrano
+$Item69,Reduce entry points in order to monitor incoming traffic,$Task59,false,2,$Group24,Reduce entry points in order to monitor incoming traffic,$User: Alex Medrano
 $Item70,Signage communicating elevator use protocols (include passenger limits and safe,$Task18,false,3,$Group11,Signage communicating elevator use protocols (include passenger limits and safe distances between people) inside and outside of elevators,$User: Alex Medrano
-$Item71,Add touchless door opening / closing solutions,$Task59,false,4,$Group25,Add touchless door opening / closing solutions,$User: Alex Medrano
+$Item71,Add touchless door opening / closing solutions,$Task59,false,4,$Group24,Add touchless door opening / closing solutions,$User: Alex Medrano
 $Item72,"Review, modify & document visitor policies",$Task62,false,1,$Group10,"Review, modify & document visitor policies",$User: Alex Medrano
-$Item73,Designate person to handle feedback/concerns,$Task43,false,7,$Group34,Designate person to handle feedback/concerns,$User: Alex Medrano
-$Item74,"If desks or work areas are shared, advise individuals to sanitize all surfaces u",$Task65,false,1,$Group22,"If desks or work areas are shared, advise individuals to sanitize all surfaces upon arrival",$User: Alex Medrano
-$Item75,Expand drop-off/delivery/receiving time windows to prevent overcrowding,$Task50,false,0,$Group24,Expand drop-off/delivery/receiving time windows to prevent overcrowding,$User: Alex Medrano
-$Item76,Designate single location for deliveries and disinfecting,$Task50,false,1,$Group24,Designate single location for deliveries and disinfecting,$User: Alex Medrano
-$Item77,Route deliveries through areas that will minimize contact with the larger buildi,$Task50,false,4,$Group24,"Route deliveries through areas that will minimize contact with the larger building population (avoid main, and employee, entrances)",$User: Alex Medrano
-$Item78,Add panels between desks (height adjustable panels for sit/stand desks),$Task43,false,3,$Group34,Add panels between desks (height adjustable panels for sit/stand desks),$User: Alex Medrano
-$Item79,Implement a reservation system for workstations,$Task43,false,4,$Group34,Implement a reservation system for workstations,$User: Alex Medrano
-$Item80,Provide disposable or washable clothing covers (e.g. dry-cleaning bags) for indi,$Task43,false,6,$Group34,Provide disposable or washable clothing covers (e.g. dry-cleaning bags) for individuals to use to cover/contain their coats or PPE,$User: Alex Medrano
-$Item81,One-way circulation routes through the workplace,$Task51,false,0,$Group20,One-way circulation routes through the workplace,$User: Alex Medrano
-$Item82,Mark increments of locally acceptable social distance on floors where queues cou,$Task51,false,1,$Group20,Mark increments of locally acceptable social distance on floors where queues could form,$User: Alex Medrano
-$Item83,Allow non-essential employees to work from home to reduce personnel density,$Task67,false,0,$Group35,Allow non-essential employees to work from home to reduce personnel density,$User: Alex Medrano
-$Item84,Acrylic dividers between food service providers and guests,$Task24,false,0,$Group14,Acrylic dividers between food service providers and guests,$User: Alex Medrano
-$Item85,Train reception staff on new protocols and safe interactions with guests,$Task62,false,2,$Group10,Train reception staff on new protocols and safe interactions with guests,$User: Alex Medrano
-$Item86,Establish a confidential reporting procedure,$Task8,false,3,$Group23,Establish a confidential reporting procedure,$User: Alex Medrano
-$Item87,"If appropriate, remove items from outer boxes upon delivery",$Task50,false,7,$Group24,"If appropriate, remove items from outer boxes upon delivery",$User: Alex Medrano
-$Item88,Delivery Best Practices: https://www.sfcdcp.org/wp-content/uploads/2020/04/COVID,$Task50,false,0,$Group21,Delivery Best Practices: https://www.sfcdcp.org/wp-content/uploads/2020/04/COVID19-Food-Delivery-Guidance-FINAL-04.16.2020.pdf,$User: Alex Medrano
-$Item89,Avoid sharing of desks,$Task65,false,0,$Group22,Avoid sharing of desks,$User: Alex Medrano
-$Item90,"Install physical barriers, e.g. acrylic sneeze guards",$Task41,false,5,$Group37,"Install physical barriers, e.g. acrylic sneeze guards",$User: Alex Medrano
-$Item91,Provide disinfectant sprays or wipes in every room,$Task37,false,8,$Group29,Provide disinfectant sprays or wipes in every room,$User: Alex Medrano
-$Item92,"Review, modify & document reception protocols and procedures",$Task62,false,0,$Group10,"Review, modify & document reception protocols and procedures",$User: Alex Medrano
-$Item93,Staff  to manage flow and discourage overcrowding of elevators,$Task18,false,0,$Group11,Staff  to manage flow and discourage overcrowding of elevators,$User: Alex Medrano
-$Item94,Monitor and check in with the affected employee until they are able to return to,$Task8,false,7,$Group23,Monitor and check in with the affected employee until they are able to return to work.,$User: Alex Medrano
-$Item95,"If an employee is confirmed to have the coronavirus infection, employers should",$Task8,false,6,$Group23,"If an employee is confirmed to have the coronavirus infection, employers should inform fellow employees of their possible exposure to the coronavirus in the workplace but maintain confidentiality as required by the Americans with Disabilities Act (ADA)",$User: Alex Medrano
-$Item96,"Information to collect from affected employee: when symptoms began, when they we",$Task8,false,0,$Group23,"Information to collect from affected employee: when symptoms began, when they were last at work, who they were  in close contact with at work, and their testing status",$User: Alex Medrano
-$Item97,Workers must be immediately quarantined include: those with a confirmed diagnosi,$Task8,false,2,$Group23,"Workers must be immediately quarantined include: those with a confirmed diagnosis, symptoms but not yet tested, exposure but not yet tested, and those requested to quarantine by healthcare providers",$User: Alex Medrano
-$Item98,Confirm that entry plan is code compliant,$Task59,false,3,$Group28,Confirm that entry plan is code compliant,$User: Alex Medrano
-$Item99,"Create secured, designated storage areas for personal items",$Task65,false,3,$Group22,"Create secured, designated storage areas for personal items",$User: Alex Medrano
-$Item100,Supply disinfectants in the immediate proximity (or on each desk),$Task65,false,4,$Group22,Supply disinfectants in the immediate proximity (or on each desk),$User: Alex Medrano
-$Item101,Develop protocols for safety and health checks (e.g. temperature checks),$Task59,false,1,$Group28,Develop protocols for safety and health checks (e.g. temperature checks),$User: Alex Medrano
-$Item102,Designate specific personnel to manage stock and distribute items,$Task34,false,1,$Group16,Designate specific personnel to manage stock and distribute items,$User: Alex Medrano
-$Item103,New protocols for collecting and disposing of large quantities of potentially co,$Task97,false,2,$Group26,New protocols for collecting and disposing of large quantities of potentially contaminated waste (critical if single-use PPE becomes common in your workplace),$User: Alex Medrano
-$Item104,Provide separate/well-marked receptacles for used/discarded PPE,$Task97,false,1,$Group26,Provide separate/well-marked receptacles for used/discarded PPE,$User: Alex Medrano
-$Item105,Consider shortwave ultraviolet light sterilization room (long term),$Task50,false,3,$Group24,Consider shortwave ultraviolet light sterilization room (long term),$User: Alex Medrano
-$Item106,National Restaurant Association Reopening Guidebook: https://restaurant.org/Down,$Task24,false,2,$Group15,National Restaurant Association Reopening Guidebook: https://restaurant.org/Downloads/PDFs/business/COVID19-Reopen-Guidance.pdf,$User: Alex Medrano
-$Item107,Create ability for front desk staff to be properly socially distanced,$Task62,false,1,$Group32,Create ability for front desk staff to be properly socially distanced,$User: Alex Medrano
-$Item108,Determine how you will stop sick or exposed persons from entering,$Task59,false,0,$Group25,Determine how you will stop sick or exposed persons from entering,$User: Alex Medrano
-$Item109,"Create confidential and accurate worker, vendor, guest and/or customer logs so t",$Task59,false,1,$Group25,"Create confidential and accurate worker, vendor, guest and/or customer logs so that you can take containment steps if a case is later discovered",$User: Alex Medrano
-$Item110,Suspend unnecessary visitors,$Task59,false,3,$Group25,Suspend unnecessary visitors,$User: Alex Medrano
-$Item111,Eliminate pen and paper receiving procedures,$Task59,false,5,$Group25,Eliminate pen and paper receiving procedures,$User: Alex Medrano
-$Item112,Guidance for Positive Tests: https://sf.gov/business-guidance-if-staff-member-te,$Task59,false,1,$Group30,Guidance for Positive Tests: https://sf.gov/business-guidance-if-staff-member-tests-positive-covid-19,$User: Alex Medrano
-$Item113,Reduce or eliminate printers and copiers (to discourage printing),$Task64,false,0,$Group31,Reduce or eliminate printers and copiers (to discourage printing),$User: Alex Medrano
-$Item114,Remove unnecessary fabric upholstered chairs,$Task64,false,1,$Group31,Remove unnecessary fabric upholstered chairs,$User: Alex Medrano
-$Item115,Create system for alternating work days/hours,$Task67,false,1,$Group35,Create system for alternating work days/hours,$User: Alex Medrano
-$Item116,Implement virtual concierge system,$Task62,false,3,$Group32,Implement virtual concierge system,$User: Alex Medrano
-$Item117,Require individuals handling shipments and deliveries to wear PPE,$Task50,false,5,$Group24,Require individuals handling shipments and deliveries to wear PPE,$User: Alex Medrano
-$Item118,Example of Health Screening form: https://covid19.colorado.gov/sites/covid19/fil,$Task59,false,2,$Group30,Example of Health Screening form: https://covid19.colorado.gov/sites/covid19/files/COVID-19-Employee-Health-Screening-Form-042620.pdf,$User: Alex Medrano
-$Item119,"Notify others (employees, vendors and customers) who were in contact with the af",$Task8,false,4,$Group23,"Notify others (employees, vendors and customers) who were in contact with the affected individual to encourage self-quarantine and/or testing",$User: Alex Medrano
-$Item120,Determine what direction you will provide to tenants/visitors/employees if they,$Task59,false,2,$Group28,Determine what direction you will provide to tenants/visitors/employees if they don’t pass health screening,$User: Alex Medrano
-$Item121,Encourage employees to bring food and beverages from home,$Task41,false,0,$Group37,Encourage employees to bring food and beverages from home,$User: Alex Medrano
-$Item122,Increase space between desks,$Task43,false,2,$Group34,Increase space between desks,$User: Alex Medrano
-$Item123,Add places for individuals to store and secure their own items separately from o,$Task43,false,5,$Group34,Add places for individuals to store and secure their own items separately from others (e.g. individual coat hooks rather than coat closets),$User: Alex Medrano
-$Item124,Follow up with those contacted once the affected worker is tested; providing wor,$Task8,false,5,$Group23,"Follow up with those contacted once the affected worker is tested; providing worker support (informational resources, child care referrals, EAP details if available, emotional support, mental health resources)",$User: Alex Medrano
-$Item125,NCSU FOOD SAFETY:  https://foodsafety.ces.ncsu.edu/covid-19-resources/,$Task24,false,1,$Group15,NCSU FOOD SAFETY:  https://foodsafety.ces.ncsu.edu/covid-19-resources/,$User: Alex Medrano
-$Item126,Implement a clean-desk policy—all non-essential items stored in enclosed cabinet,$Task65,false,2,$Group22,Implement a clean-desk policy—all non-essential items stored in enclosed cabinets or drawers,$User: Alex Medrano
-$Item127,"Minimize touchpoints by removing shared appliances, e.g. coffee pots",$Task41,false,1,$Group37,"Minimize touchpoints by removing shared appliances, e.g. coffee pots",$User: Alex Medrano
-$Item128,Add desks to spaces previously used for group activities (training/meeting rooms,$Task43,false,1,$Group34,"Add desks to spaces previously used for group activities (training/meeting rooms, kitchen/cafeteria area, town hall meeting space, etc.)",$User: Alex Medrano
-$Item129,Provide whiteboard cleaning solution and disposable wipes adjacent to every boar,$Task37,false,3,$Group29,Provide whiteboard cleaning solution and disposable wipes adjacent to every board,$User: Alex Medrano
-$Item130,Add floor markings for safe distancing for queue or waiting areas,$Task49,false,2,$Group13,Add floor markings for safe distancing for queue or waiting areas,$User: Alex Medrano
-$Item131,Document new entry protocols & procedures,$Task59,false,4,$Group28,Document new entry protocols & procedures,$User: Alex Medrano
-$Item132,Communicate modified entry and safety and health check plans to employees/facili,$Task59,false,5,$Group28,Communicate modified entry and safety and health check plans to employees/facility tenants,$User: Alex Medrano
-$Item133,SOP: COVID-19 PLAYBOOK - BLACK SHEEP RESTAURANTS :  https://blacksheeprestaurant,$Task24,false,3,$Group15,SOP: COVID-19 PLAYBOOK - BLACK SHEEP RESTAURANTS :  https://blacksheeprestaurants.com/wp-content/uploads/2020/03/black-sheep-restaurants-sop-covid19.pdf,$User: Alex Medrano
-$Item134,Eliminate shared/open food items,$Task41,false,2,$Group37,Eliminate shared/open food items,$User: Alex Medrano
-$Item135,Compostable Gloves: https://www.vegwareus.com/us/catalogue/food_prep_gloves/,$Task41,false,0,$Group19,Compostable Gloves: https://www.vegwareus.com/us/catalogue/food_prep_gloves/,$User: Alex Medrano
-$Item136,Signage to clearly indicate capacity in kitchen,$Task41,false,7,$Group37,Signage to clearly indicate capacity in kitchen,$User: Alex Medrano
-$Item137,Add disposable mask dispensing station if first point of entry,$Task59,false,7,$Group25,Add disposable mask dispensing station if first point of entry,$User: Alex Medrano
-$Item138,Eliminate or reduce self-service access to foods,$Task24,false,2,$Group14,Eliminate or reduce self-service access to foods,$User: Alex Medrano
-$Item139,Determine use of small rooms (prohibit shared use by groups and convert to singl,$Task37,false,7,$Group29,Determine use of small rooms (prohibit shared use by groups and convert to single occupant use only),$User: Alex Medrano
-$Item140,Provide real-time meters/dashboards at entries to display how many people are pr,$Task67,false,3,$Group35,Provide real-time meters/dashboards at entries to display how many people are present,$User: Alex Medrano
-$Item141,Provide hand sanitizer,$Task26,false,3,$Group36,Provide hand sanitizer,$User: Alex Medrano
-$Item142,Move activities outside (weather permitting),$Task30,false,2,$Group33,Move activities outside (weather permitting),$User: Alex Medrano
-$Item143,"Increase frequency of cleaning of high touch appliances, e.g. refrigerators and",$Task41,false,4,$Group37,"Increase frequency of cleaning of high touch appliances, e.g. refrigerators and microwaves",$User: Alex Medrano
-$Item144,Affix a notice to each chair reminding people to avoid or disinfect touchpoints,$Task64,false,2,$Group31,Affix a notice to each chair reminding people to avoid or disinfect touchpoints,$User: Alex Medrano
-$Item145,Add glass screens between guests and reception personnel,$Task62,false,2,$Group32,Add glass screens between guests and reception personnel,$User: Alex Medrano
-$Item146,Require face covering/mask on elevators,$Task18,false,2,$Group11,Require face covering/mask on elevators,$User: Alex Medrano
-$Item147,Install movement detectors to activate light switches,$Task72,false,1,$Group38,Install movement detectors to activate light switches,$User: Alex Medrano
-$Item148,Install voice-activated controls,$Task72,false,2,$Group38,Install voice-activated controls,$User: Alex Medrano
-$Item149,Cover switches with sign reminding people to leave switches “on” all day,$Task72,false,0,$Group38,Cover switches with sign reminding people to leave switches “on” all day,$User: Alex Medrano
-$Item150,Provide wall-mounted disinfectant dispensers by switches,$Task72,false,3,$Group38,Provide wall-mounted disinfectant dispensers by switches,$User: Alex Medrano
-$Item151,Remove non-essential doors,$Task75,false,0,$Group39,Remove non-essential doors,$User: Alex Medrano
-$Item152,Remove door handles,$Task75,false,1,$Group39,Remove door handles,$User: Alex Medrano
-$Item153,Affix doors in an open position,$Task75,false,2,$Group39,Affix doors in an open position,$User: Alex Medrano
-$Item154,Frequently-touched surfaces and equipment,$Task80,false,0,$Group44,Frequently-touched surfaces and equipment,$User: Alex Medrano
-$Item155,Kitchen Areas,$Task80,false,1,$Group44,Kitchen Areas,$User: Alex Medrano
-$Item156,Vending Machines,$Task80,false,2,$Group44,Vending Machines,$User: Alex Medrano
-$Item157,Bathrooms,$Task80,false,3,$Group44,Bathrooms,$User: Alex Medrano
-$Item158,Meeting Rooms,$Task80,false,4,$Group44,Meeting Rooms,$User: Alex Medrano
-$Item159,Phone Rooms,$Task80,false,5,$Group44,Phone Rooms,$User: Alex Medrano
-$Item160,Monthly review of cleaning products against approved lists from governing author,$Task80,false,6,$Group44,Monthly review of cleaning products against approved lists from governing authorities,$User: Alex Medrano
-$Item161,Create project management system to manage and document pandemic-related respons,$Task1,false,0,$Group41,Create project management system to manage and document pandemic-related responsibilities,$User: Alex Medrano
-$Item162,Decide what you will require,$Task9,false,0,$Group7,Decide what you will require,$User: Alex Medrano
-$Item163,Management training plan for leading distributed teams,$Task103,false,0,$Group40,Management training plan for leading distributed teams,$User: Alex Medrano
-$Item164,Face covering policy,$Task101,false,0,$Group43,Face covering policy,$User: Alex Medrano
-$Item165,"Use of space protocols (individual workstations, common areas, meeting rooms, re",$Task96,false,7,$Group47,"Use of space protocols (individual workstations, common areas, meeting rooms, restrooms, etc.)",$User: Alex Medrano
-$Item166,Document your requirements,$Task9,false,1,$Group7,Document your requirements,$User: Alex Medrano
-$Item167,Signage to remind employees of policies,$Task9,false,2,$Group7,Signage to remind employees of policies,$User: Alex Medrano
-$Item168,EPA Guidance for Cleaning: https://www.epa.gov/coronavirus/guidance-cleaning-and,$Task97,false,4,$Group42,EPA Guidance for Cleaning: https://www.epa.gov/coronavirus/guidance-cleaning-and-disinfecting-public-spaces-workplaces-businesses-schools-and-homes,$User: Alex Medrano
-$Item169,Contact tracing protocols,$Task96,false,9,$Group47,Contact tracing protocols,$User: Alex Medrano
-$Item170,Develop responsibilities checklist,$Task88,false,2,$Group46,Develop responsibilities checklist,$User: Alex Medrano
-$Item171,Virtual Work Tools & Protocols,$Task103,false,1,$Group40,Virtual Work Tools & Protocols,$User: Alex Medrano
-$Item172,Create a checklist of steps to take in the case of an outbreak,$Task83,false,1,$Group45,Create a checklist of steps to take in the case of an outbreak,$User: Alex Medrano
-$Item173,"Appoint a facility advisor(s), i.e. person(s) responsible for ensuring optimally",$Task88,false,0,$Group46,"Appoint a facility advisor(s), i.e. person(s) responsible for ensuring optimally functioning and safe workplace environment",$User: Alex Medrano
-$Item174,Social distancing protocols,$Task96,false,8,$Group47,Social distancing protocols,$User: Alex Medrano
-$Item175,Communicate what to expect on arrival to help alleviate anxiety. Will building a,$Task96,false,0,$Group47,Communicate what to expect on arrival to help alleviate anxiety. Will building access be different? Will there be increased security? Should they expect delays at the entrance? Should they expect queues? Will they see directional signage or other posted information to guide them?,$User: Alex Medrano
-$Item176,Give local managers the authority to take appropriate actions based on the condi,$Task83,false,0,$Group45,Give local managers the authority to take appropriate actions based on the conditions in each location,$User: Alex Medrano
-$Item177,Provide reminders of how to manage an emergency in the workplace with relevant d,$Task83,false,2,$Group45,"Provide reminders of how to manage an emergency in the workplace with relevant details defining who to notify, where to go, how to get help, and how to respond afterwards.",$User: Alex Medrano
-$Item178,Disinfectants: https://www.epa.gov/pesticide-registration/list-n-disinfectants-u,$Task97,false,0,$Group42,Disinfectants: https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2,$User: Alex Medrano
-$Item179,Cleaning Recommendations: https://covid19.colorado.gov/cleaning-guidance,$Task97,false,1,$Group42,Cleaning Recommendations: https://covid19.colorado.gov/cleaning-guidance,$User: Alex Medrano
-$Item180,OSHA Ventilation Guidance: https://www.osha.gov/SLTC/ventilation/,$Task97,false,3,$Group42,OSHA Ventilation Guidance: https://www.osha.gov/SLTC/ventilation/,$User: Alex Medrano
-$Item181,CDC Recommendations for Cleaning: https://www.cdc.gov/coronavirus/2019-ncov/comm,$Task97,false,2,$Group42,CDC Recommendations for Cleaning: https://www.cdc.gov/coronavirus/2019-ncov/community/disinfecting-building-facility.html,$User: Alex Medrano
-$Item182,”What to do if you feel ill” steps,$Task101,false,1,$Group43,”What to do if you feel ill” steps,$User: Alex Medrano
-$Item183,"Add Rules of Conduct to employee handbook, publish and distribute",$Task101,false,2,$Group43,"Add Rules of Conduct to employee handbook, publish and distribute",$User: Alex Medrano
-$Item184,Require written confirmation by employee of receipt of Rules of Conduct,$Task101,false,3,$Group43,Require written confirmation by employee of receipt of Rules of Conduct,$User: Alex Medrano
-$Item185,Return to work date announcement,$Task96,false,4,$Group47,Return to work date announcement,$User: Alex Medrano
-$Item186,"Determine responsibilities (e.g. manage communications, field questions, go-to i",$Task88,false,1,$Group46,"Determine responsibilities (e.g. manage communications, field questions, go-to if outbreak)",$User: Alex Medrano
-$Item187,Add responsibilities to job description,$Task88,false,3,$Group46,Add responsibilities to job description,$User: Alex Medrano
-$Item188,Training,$Task88,false,4,$Group46,Training,$User: Alex Medrano
-$Item189,Engage change management consultant to help with communication strategy and exec,$Task96,false,1,$Group47,Engage change management consultant to help with communication strategy and execution,$User: Alex Medrano
-$Item190,Engage vendors and customers in back-to-work plan,$Task96,false,2,$Group47,Engage vendors and customers in back-to-work plan,$User: Alex Medrano
-$Item191,"As plans are forming, keep your employees and vendors informed as soon as approp",$Task96,false,3,$Group47,"As plans are forming, keep your employees and vendors informed as soon as appropriate",$User: Alex Medrano
-$Item192,The “why” (so people understand the “what”),$Task96,false,5,$Group47,The “why” (so people understand the “what”),$User: Alex Medrano
-$Item193,Detailed info about what to expect pre-return & day of return,$Task96,false,6,$Group47,Detailed info about what to expect pre-return & day of return,$User: Alex Medrano
-$Item194,"COVID-19 “org chart” (who to contact if questions, who will be serving as COVID-",$Task96,false,10,$Group47,"COVID-19 “org chart” (who to contact if questions, who will be serving as COVID-19 Facility Advisor, who will be handling deliveries, etc.)",$User: Alex Medrano
-$Item195,Post signs for key messages and post in high traffic areas such as main entrance,$Task96,false,11,$Group47,"Post signs for key messages and post in high traffic areas such as main entrances, restrooms, etc.",$User: Alex Medrano
-$Item196,"Set up ongoing training plan (new hires, refresher training, training on modifie",$Task103,false,2,$Group40,"Set up ongoing training plan (new hires, refresher training, training on modified policies",$User: Alex Medrano
-$Item197,"Who will be responsible for strategy and protocols, communication, implementatio",$Task81,false,1,$Group50,"Who will be responsible for strategy and protocols, communication, implementation & training",$User: Alex Medrano
-$Item198,"If large facility, consider assigning “floor monitors” to be responsible for hea",$Task81,false,3,$Group50,"If large facility, consider assigning “floor monitors” to be responsible for head counts, resupply of PPE & sanitation items, etc.",$User: Alex Medrano
-$Item199,CDC Guidelines: https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Acti,$Task111,false,0,$Group48,CDC Guidelines: https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf,$User: Alex Medrano
-$Item200,Add responsibilities to job descriptions,$Task81,false,2,$Group50,Add responsibilities to job descriptions,$User: Alex Medrano
-$Item201,Create a skills matrix to help identify employees to serve on Response Team,$Task81,false,0,$Group50,Create a skills matrix to help identify employees to serve on Response Team,$User: Alex Medrano
-$Item202,Consider appointing a facility advisor(s) to serve as go-to for pandemic-related,$Task81,false,4,$Group50,Consider appointing a facility advisor(s) to serve as go-to for pandemic-related issues,$User: Alex Medrano
-$Item203,Set up regular status meetings,$Task1,false,1,$Group41,Set up regular status meetings,$User: Alex Medrano
+$Item73,Designate person to handle feedback/concerns,$Task43,false,7,$Group32,Designate person to handle feedback/concerns,$User: Alex Medrano
+$Item74,"If desks or work areas are shared, advise individuals to sanitize all surfaces u",$Task65,false,1,$Group21,"If desks or work areas are shared, advise individuals to sanitize all surfaces upon arrival",$User: Alex Medrano
+$Item75,Expand drop-off/delivery/receiving time windows to prevent overcrowding,$Task50,false,0,$Group23,Expand drop-off/delivery/receiving time windows to prevent overcrowding,$User: Alex Medrano
+$Item76,Designate single location for deliveries and disinfecting,$Task50,false,1,$Group23,Designate single location for deliveries and disinfecting,$User: Alex Medrano
+$Item77,Route deliveries through areas that will minimize contact with the larger buildi,$Task50,false,4,$Group23,"Route deliveries through areas that will minimize contact with the larger building population (avoid main, and employee, entrances)",$User: Alex Medrano
+$Item78,Add panels between desks (height adjustable panels for sit/stand desks),$Task43,false,3,$Group32,Add panels between desks (height adjustable panels for sit/stand desks),$User: Alex Medrano
+$Item79,Implement a reservation system for workstations,$Task43,false,4,$Group32,Implement a reservation system for workstations,$User: Alex Medrano
+$Item80,Provide disposable or washable clothing covers (e.g. dry-cleaning bags) for indi,$Task43,false,6,$Group32,Provide disposable or washable clothing covers (e.g. dry-cleaning bags) for individuals to use to cover/contain their coats or PPE,$User: Alex Medrano
+$Item81,Allow non-essential employees to work from home to reduce personnel density,$Task67,false,0,$Group33,Allow non-essential employees to work from home to reduce personnel density,$User: Alex Medrano
+$Item82,Acrylic dividers between food service providers and guests,$Task24,false,0,$Group14,Acrylic dividers between food service providers and guests,$User: Alex Medrano
+$Item83,Train reception staff on new protocols and safe interactions with guests,$Task62,false,2,$Group10,Train reception staff on new protocols and safe interactions with guests,$User: Alex Medrano
+$Item84,Establish a confidential reporting procedure,$Task8,false,3,$Group22,Establish a confidential reporting procedure,$User: Alex Medrano
+$Item85,"If appropriate, remove items from outer boxes upon delivery",$Task50,false,7,$Group23,"If appropriate, remove items from outer boxes upon delivery",$User: Alex Medrano
+$Item86,Delivery Best Practices: https://www.sfcdcp.org/wp-content/uploads/2020/04/COVID,$Task50,false,0,$Group20,Delivery Best Practices: https://www.sfcdcp.org/wp-content/uploads/2020/04/COVID19-Food-Delivery-Guidance-FINAL-04.16.2020.pdf,$User: Alex Medrano
+$Item87,Avoid sharing of desks,$Task65,false,0,$Group21,Avoid sharing of desks,$User: Alex Medrano
+$Item88,"Install physical barriers, e.g. acrylic sneeze guards",$Task41,false,5,$Group35,"Install physical barriers, e.g. acrylic sneeze guards",$User: Alex Medrano
+$Item89,Provide disinfectant sprays or wipes in every room,$Task37,false,8,$Group27,Provide disinfectant sprays or wipes in every room,$User: Alex Medrano
+$Item90,"Review, modify & document reception protocols and procedures",$Task62,false,0,$Group10,"Review, modify & document reception protocols and procedures",$User: Alex Medrano
+$Item91,Staff  to manage flow and discourage overcrowding of elevators,$Task18,false,0,$Group11,Staff  to manage flow and discourage overcrowding of elevators,$User: Alex Medrano
+$Item92,Monitor and check in with the affected employee until they are able to return to,$Task8,false,7,$Group22,Monitor and check in with the affected employee until they are able to return to work.,$User: Alex Medrano
+$Item93,"If an employee is confirmed to have the coronavirus infection, employers should",$Task8,false,6,$Group22,"If an employee is confirmed to have the coronavirus infection, employers should inform fellow employees of their possible exposure to the coronavirus in the workplace but maintain confidentiality as required by the Americans with Disabilities Act (ADA)",$User: Alex Medrano
+$Item94,"Information to collect from affected employee: when symptoms began, when they we",$Task8,false,0,$Group22,"Information to collect from affected employee: when symptoms began, when they were last at work, who they were  in close contact with at work, and their testing status",$User: Alex Medrano
+$Item95,Workers must be immediately quarantined include: those with a confirmed diagnosi,$Task8,false,2,$Group22,"Workers must be immediately quarantined include: those with a confirmed diagnosis, symptoms but not yet tested, exposure but not yet tested, and those requested to quarantine by healthcare providers",$User: Alex Medrano
+$Item96,Confirm that entry plan is code compliant,$Task59,false,3,$Group26,Confirm that entry plan is code compliant,$User: Alex Medrano
+$Item97,"Create secured, designated storage areas for personal items",$Task65,false,3,$Group21,"Create secured, designated storage areas for personal items",$User: Alex Medrano
+$Item98,Supply disinfectants in the immediate proximity (or on each desk),$Task65,false,4,$Group21,Supply disinfectants in the immediate proximity (or on each desk),$User: Alex Medrano
+$Item99,Develop protocols for safety and health checks (e.g. temperature checks),$Task59,false,1,$Group26,Develop protocols for safety and health checks (e.g. temperature checks),$User: Alex Medrano
+$Item100,Designate specific personnel to manage stock and distribute items,$Task34,false,1,$Group16,Designate specific personnel to manage stock and distribute items,$User: Alex Medrano
+$Item101,New protocols for collecting and disposing of large quantities of potentially co,$Task97,false,2,$Group25,New protocols for collecting and disposing of large quantities of potentially contaminated waste (critical if single-use PPE becomes common in your workplace),$User: Alex Medrano
+$Item102,Provide separate/well-marked receptacles for used/discarded PPE,$Task97,false,1,$Group25,Provide separate/well-marked receptacles for used/discarded PPE,$User: Alex Medrano
+$Item103,Consider shortwave ultraviolet light sterilization room (long term),$Task50,false,3,$Group23,Consider shortwave ultraviolet light sterilization room (long term),$User: Alex Medrano
+$Item104,National Restaurant Association Reopening Guidebook: https://restaurant.org/Down,$Task24,false,2,$Group15,National Restaurant Association Reopening Guidebook: https://restaurant.org/Downloads/PDFs/business/COVID19-Reopen-Guidance.pdf,$User: Alex Medrano
+$Item105,Create ability for front desk staff to be properly socially distanced,$Task62,false,1,$Group30,Create ability for front desk staff to be properly socially distanced,$User: Alex Medrano
+$Item106,Determine how you will stop sick or exposed persons from entering,$Task59,false,0,$Group24,Determine how you will stop sick or exposed persons from entering,$User: Alex Medrano
+$Item107,"Create confidential and accurate worker, vendor, guest and/or customer logs so t",$Task59,false,1,$Group24,"Create confidential and accurate worker, vendor, guest and/or customer logs so that you can take containment steps if a case is later discovered",$User: Alex Medrano
+$Item108,Suspend unnecessary visitors,$Task59,false,3,$Group24,Suspend unnecessary visitors,$User: Alex Medrano
+$Item109,Eliminate pen and paper receiving procedures,$Task59,false,5,$Group24,Eliminate pen and paper receiving procedures,$User: Alex Medrano
+$Item110,Guidance for Positive Tests: https://sf.gov/business-guidance-if-staff-member-te,$Task59,false,1,$Group28,Guidance for Positive Tests: https://sf.gov/business-guidance-if-staff-member-tests-positive-covid-19,$User: Alex Medrano
+$Item111,Reduce or eliminate printers and copiers (to discourage printing),$Task64,false,0,$Group29,Reduce or eliminate printers and copiers (to discourage printing),$User: Alex Medrano
+$Item112,Remove unnecessary fabric upholstered chairs,$Task64,false,1,$Group29,Remove unnecessary fabric upholstered chairs,$User: Alex Medrano
+$Item113,Create system for alternating work days/hours,$Task67,false,1,$Group33,Create system for alternating work days/hours,$User: Alex Medrano
+$Item114,Implement virtual concierge system,$Task62,false,3,$Group30,Implement virtual concierge system,$User: Alex Medrano
+$Item115,Require individuals handling shipments and deliveries to wear PPE,$Task50,false,5,$Group23,Require individuals handling shipments and deliveries to wear PPE,$User: Alex Medrano
+$Item116,Example of Health Screening form: https://covid19.colorado.gov/sites/covid19/fil,$Task59,false,2,$Group28,Example of Health Screening form: https://covid19.colorado.gov/sites/covid19/files/COVID-19-Employee-Health-Screening-Form-042620.pdf,$User: Alex Medrano
+$Item117,"Notify others (employees, vendors and customers) who were in contact with the af",$Task8,false,4,$Group22,"Notify others (employees, vendors and customers) who were in contact with the affected individual to encourage self-quarantine and/or testing",$User: Alex Medrano
+$Item118,Determine what direction you will provide to tenants/visitors/employees if they,$Task59,false,2,$Group26,Determine what direction you will provide to tenants/visitors/employees if they don’t pass health screening,$User: Alex Medrano
+$Item119,Encourage employees to bring food and beverages from home,$Task41,false,0,$Group35,Encourage employees to bring food and beverages from home,$User: Alex Medrano
+$Item120,Increase space between desks,$Task43,false,2,$Group32,Increase space between desks,$User: Alex Medrano
+$Item121,Add places for individuals to store and secure their own items separately from o,$Task43,false,5,$Group32,Add places for individuals to store and secure their own items separately from others (e.g. individual coat hooks rather than coat closets),$User: Alex Medrano
+$Item122,Follow up with those contacted once the affected worker is tested; providing wor,$Task8,false,5,$Group22,"Follow up with those contacted once the affected worker is tested; providing worker support (informational resources, child care referrals, EAP details if available, emotional support, mental health resources)",$User: Alex Medrano
+$Item123,NCSU FOOD SAFETY:  https://foodsafety.ces.ncsu.edu/covid-19-resources/,$Task24,false,1,$Group15,NCSU FOOD SAFETY:  https://foodsafety.ces.ncsu.edu/covid-19-resources/,$User: Alex Medrano
+$Item124,Implement a clean-desk policy—all non-essential items stored in enclosed cabinet,$Task65,false,2,$Group21,Implement a clean-desk policy—all non-essential items stored in enclosed cabinets or drawers,$User: Alex Medrano
+$Item125,"Minimize touchpoints by removing shared appliances, e.g. coffee pots",$Task41,false,1,$Group35,"Minimize touchpoints by removing shared appliances, e.g. coffee pots",$User: Alex Medrano
+$Item126,Add desks to spaces previously used for group activities (training/meeting rooms,$Task43,false,1,$Group32,"Add desks to spaces previously used for group activities (training/meeting rooms, kitchen/cafeteria area, town hall meeting space, etc.)",$User: Alex Medrano
+$Item127,Provide whiteboard cleaning solution and disposable wipes adjacent to every boar,$Task37,false,3,$Group27,Provide whiteboard cleaning solution and disposable wipes adjacent to every board,$User: Alex Medrano
+$Item128,Add floor markings for safe distancing for queue or waiting areas,$Task49,false,2,$Group13,Add floor markings for safe distancing for queue or waiting areas,$User: Alex Medrano
+$Item129,Document new entry protocols & procedures,$Task59,false,4,$Group26,Document new entry protocols & procedures,$User: Alex Medrano
+$Item130,Communicate modified entry and safety and health check plans to employees/facili,$Task59,false,5,$Group26,Communicate modified entry and safety and health check plans to employees/facility tenants,$User: Alex Medrano
+$Item131,SOP: COVID-19 PLAYBOOK - BLACK SHEEP RESTAURANTS :  https://blacksheeprestaurant,$Task24,false,3,$Group15,SOP: COVID-19 PLAYBOOK - BLACK SHEEP RESTAURANTS :  https://blacksheeprestaurants.com/wp-content/uploads/2020/03/black-sheep-restaurants-sop-covid19.pdf,$User: Alex Medrano
+$Item132,Eliminate shared/open food items,$Task41,false,2,$Group35,Eliminate shared/open food items,$User: Alex Medrano
+$Item133,Compostable Gloves: https://www.vegwareus.com/us/catalogue/food_prep_gloves/,$Task41,false,0,$Group19,Compostable Gloves: https://www.vegwareus.com/us/catalogue/food_prep_gloves/,$User: Alex Medrano
+$Item134,Signage to clearly indicate capacity in kitchen,$Task41,false,7,$Group35,Signage to clearly indicate capacity in kitchen,$User: Alex Medrano
+$Item135,Add disposable mask dispensing station if first point of entry,$Task59,false,7,$Group24,Add disposable mask dispensing station if first point of entry,$User: Alex Medrano
+$Item136,Eliminate or reduce self-service access to foods,$Task24,false,2,$Group14,Eliminate or reduce self-service access to foods,$User: Alex Medrano
+$Item137,Determine use of small rooms (prohibit shared use by groups and convert to singl,$Task37,false,7,$Group27,Determine use of small rooms (prohibit shared use by groups and convert to single occupant use only),$User: Alex Medrano
+$Item138,Provide real-time meters/dashboards at entries to display how many people are pr,$Task67,false,3,$Group33,Provide real-time meters/dashboards at entries to display how many people are present,$User: Alex Medrano
+$Item139,Provide hand sanitizer,$Task26,false,3,$Group34,Provide hand sanitizer,$User: Alex Medrano
+$Item140,Move activities outside (weather permitting),$Task30,false,2,$Group31,Move activities outside (weather permitting),$User: Alex Medrano
+$Item141,"Increase frequency of cleaning of high touch appliances, e.g. refrigerators and",$Task41,false,4,$Group35,"Increase frequency of cleaning of high touch appliances, e.g. refrigerators and microwaves",$User: Alex Medrano
+$Item142,Affix a notice to each chair reminding people to avoid or disinfect touchpoints,$Task64,false,2,$Group29,Affix a notice to each chair reminding people to avoid or disinfect touchpoints,$User: Alex Medrano
+$Item143,Add glass screens between guests and reception personnel,$Task62,false,2,$Group30,Add glass screens between guests and reception personnel,$User: Alex Medrano
+$Item144,Require face covering/mask on elevators,$Task18,false,2,$Group11,Require face covering/mask on elevators,$User: Alex Medrano
+$Item145,Install movement detectors to activate light switches,$Task72,false,1,$Group36,Install movement detectors to activate light switches,$User: Alex Medrano
+$Item146,Install voice-activated controls,$Task72,false,2,$Group36,Install voice-activated controls,$User: Alex Medrano
+$Item147,Cover switches with sign reminding people to leave switches “on” all day,$Task72,false,0,$Group36,Cover switches with sign reminding people to leave switches “on” all day,$User: Alex Medrano
+$Item148,Provide wall-mounted disinfectant dispensers by switches,$Task72,false,3,$Group36,Provide wall-mounted disinfectant dispensers by switches,$User: Alex Medrano
+$Item149,Remove non-essential doors,$Task75,false,0,$Group37,Remove non-essential doors,$User: Alex Medrano
+$Item150,Remove door handles,$Task75,false,1,$Group37,Remove door handles,$User: Alex Medrano
+$Item151,Affix doors in an open position,$Task75,false,2,$Group37,Affix doors in an open position,$User: Alex Medrano
+$Item152,Frequently-touched surfaces and equipment,$Task80,false,0,$Group42,Frequently-touched surfaces and equipment,$User: Alex Medrano
+$Item153,Kitchen Areas,$Task80,false,1,$Group42,Kitchen Areas,$User: Alex Medrano
+$Item154,Vending Machines,$Task80,false,2,$Group42,Vending Machines,$User: Alex Medrano
+$Item155,Bathrooms,$Task80,false,3,$Group42,Bathrooms,$User: Alex Medrano
+$Item156,Meeting Rooms,$Task80,false,4,$Group42,Meeting Rooms,$User: Alex Medrano
+$Item157,Phone Rooms,$Task80,false,5,$Group42,Phone Rooms,$User: Alex Medrano
+$Item158,Monthly review of cleaning products against approved lists from governing author,$Task80,false,6,$Group42,Monthly review of cleaning products against approved lists from governing authorities,$User: Alex Medrano
+$Item159,Create project management system to manage and document pandemic-related respons,$Task1,false,0,$Group39,Create project management system to manage and document pandemic-related responsibilities,$User: Alex Medrano
+$Item160,Decide what you will require,$Task9,false,0,$Group7,Decide what you will require,$User: Alex Medrano
+$Item161,Management training plan for leading distributed teams,$Task103,false,0,$Group38,Management training plan for leading distributed teams,$User: Alex Medrano
+$Item162,Face covering policy,$Task101,false,0,$Group41,Face covering policy,$User: Alex Medrano
+$Item163,"Use of space protocols (individual workstations, common areas, meeting rooms, re",$Task96,false,7,$Group45,"Use of space protocols (individual workstations, common areas, meeting rooms, restrooms, etc.)",$User: Alex Medrano
+$Item164,Document your requirements,$Task9,false,1,$Group7,Document your requirements,$User: Alex Medrano
+$Item165,Signage to remind employees of policies,$Task9,false,2,$Group7,Signage to remind employees of policies,$User: Alex Medrano
+$Item166,EPA Guidance for Cleaning: https://www.epa.gov/coronavirus/guidance-cleaning-and,$Task97,false,4,$Group40,EPA Guidance for Cleaning: https://www.epa.gov/coronavirus/guidance-cleaning-and-disinfecting-public-spaces-workplaces-businesses-schools-and-homes,$User: Alex Medrano
+$Item167,Contact tracing protocols,$Task96,false,9,$Group45,Contact tracing protocols,$User: Alex Medrano
+$Item168,Develop responsibilities checklist,$Task88,false,2,$Group44,Develop responsibilities checklist,$User: Alex Medrano
+$Item169,Virtual Work Tools & Protocols,$Task103,false,1,$Group38,Virtual Work Tools & Protocols,$User: Alex Medrano
+$Item170,Create a checklist of steps to take in the case of an outbreak,$Task83,false,1,$Group43,Create a checklist of steps to take in the case of an outbreak,$User: Alex Medrano
+$Item171,"Appoint a facility advisor(s), i.e. person(s) responsible for ensuring optimally",$Task88,false,0,$Group44,"Appoint a facility advisor(s), i.e. person(s) responsible for ensuring optimally functioning and safe workplace environment",$User: Alex Medrano
+$Item172,Social distancing protocols,$Task96,false,8,$Group45,Social distancing protocols,$User: Alex Medrano
+$Item173,Communicate what to expect on arrival to help alleviate anxiety. Will building a,$Task96,false,0,$Group45,Communicate what to expect on arrival to help alleviate anxiety. Will building access be different? Will there be increased security? Should they expect delays at the entrance? Should they expect queues? Will they see directional signage or other posted information to guide them?,$User: Alex Medrano
+$Item174,Give local managers the authority to take appropriate actions based on the condi,$Task83,false,0,$Group43,Give local managers the authority to take appropriate actions based on the conditions in each location,$User: Alex Medrano
+$Item175,Provide reminders of how to manage an emergency in the workplace with relevant d,$Task83,false,2,$Group43,"Provide reminders of how to manage an emergency in the workplace with relevant details defining who to notify, where to go, how to get help, and how to respond afterwards.",$User: Alex Medrano
+$Item176,Disinfectants: https://www.epa.gov/pesticide-registration/list-n-disinfectants-u,$Task97,false,0,$Group40,Disinfectants: https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2,$User: Alex Medrano
+$Item177,Cleaning Recommendations: https://covid19.colorado.gov/cleaning-guidance,$Task97,false,1,$Group40,Cleaning Recommendations: https://covid19.colorado.gov/cleaning-guidance,$User: Alex Medrano
+$Item178,OSHA Ventilation Guidance: https://www.osha.gov/SLTC/ventilation/,$Task97,false,3,$Group40,OSHA Ventilation Guidance: https://www.osha.gov/SLTC/ventilation/,$User: Alex Medrano
+$Item179,CDC Recommendations for Cleaning: https://www.cdc.gov/coronavirus/2019-ncov/comm,$Task97,false,2,$Group40,CDC Recommendations for Cleaning: https://www.cdc.gov/coronavirus/2019-ncov/community/disinfecting-building-facility.html,$User: Alex Medrano
+$Item180,”What to do if you feel ill” steps,$Task101,false,1,$Group41,”What to do if you feel ill” steps,$User: Alex Medrano
+$Item181,"Add Rules of Conduct to employee handbook, publish and distribute",$Task101,false,2,$Group41,"Add Rules of Conduct to employee handbook, publish and distribute",$User: Alex Medrano
+$Item182,Require written confirmation by employee of receipt of Rules of Conduct,$Task101,false,3,$Group41,Require written confirmation by employee of receipt of Rules of Conduct,$User: Alex Medrano
+$Item183,Return to work date announcement,$Task96,false,4,$Group45,Return to work date announcement,$User: Alex Medrano
+$Item184,"Determine responsibilities (e.g. manage communications, field questions, go-to i",$Task88,false,1,$Group44,"Determine responsibilities (e.g. manage communications, field questions, go-to if outbreak)",$User: Alex Medrano
+$Item185,Add responsibilities to job description,$Task88,false,3,$Group44,Add responsibilities to job description,$User: Alex Medrano
+$Item186,Engage change management consultant to help with communication strategy and exec,$Task96,false,1,$Group45,Engage change management consultant to help with communication strategy and execution,$User: Alex Medrano
+$Item187,Engage vendors and customers in back-to-work plan,$Task96,false,2,$Group45,Engage vendors and customers in back-to-work plan,$User: Alex Medrano
+$Item188,"As plans are forming, keep your employees and vendors informed as soon as approp",$Task96,false,3,$Group45,"As plans are forming, keep your employees and vendors informed as soon as appropriate",$User: Alex Medrano
+$Item189,The “why” (so people understand the “what”),$Task96,false,5,$Group45,The “why” (so people understand the “what”),$User: Alex Medrano
+$Item190,Detailed info about what to expect pre-return & day of return,$Task96,false,6,$Group45,Detailed info about what to expect pre-return & day of return,$User: Alex Medrano
+$Item191,"COVID-19 “org chart” (who to contact if questions, who will be serving as COVID-",$Task96,false,10,$Group45,"COVID-19 “org chart” (who to contact if questions, who will be serving as COVID-19 Facility Advisor, who will be handling deliveries, etc.)",$User: Alex Medrano
+$Item192,Post signs for key messages and post in high traffic areas such as main entrance,$Task96,false,11,$Group45,"Post signs for key messages and post in high traffic areas such as main entrances, restrooms, etc.",$User: Alex Medrano
+$Item193,"Set up ongoing training plan (new hires, refresher training, training on modifie",$Task103,false,2,$Group38,"Set up ongoing training plan (new hires, refresher training, training on modified policies)",$User: Alex Medrano
+$Item194,"Who will be responsible for strategy and protocols, communication, implementatio",$Task81,false,1,$Group47,"Who will be responsible for strategy and protocols, communication, implementation & training",$User: Alex Medrano
+$Item195,"If large facility, consider assigning “floor monitors” to be responsible for hea",$Task81,false,3,$Group47,"If large facility, consider assigning “floor monitors” to be responsible for head counts, resupply of PPE & sanitation items, etc.",$User: Alex Medrano
+$Item196,CDC Guidelines: https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Acti,$Task111,false,0,$Group46,CDC Guidelines: https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf,$User: Alex Medrano
+$Item197,Add responsibilities to job descriptions,$Task81,false,2,$Group47,Add responsibilities to job descriptions,$User: Alex Medrano
+$Item198,Create a skills matrix to help identify employees to serve on Response Team,$Task81,false,0,$Group47,Create a skills matrix to help identify employees to serve on Response Team,$User: Alex Medrano
+$Item199,Consider appointing a facility advisor(s) to serve as go-to for pandemic-related,$Task81,false,4,$Group47,Consider appointing a facility advisor(s) to serve as go-to for pandemic-related issues,$User: Alex Medrano
+$Item200,Set up regular status meetings,$Task1,false,1,$Group39,Set up regular status meetings,$User: Alex Medrano
