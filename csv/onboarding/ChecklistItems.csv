@@ -1,0 +1,3 @@
+Id,Name,TASKRAY__Project_Task__c,TASKRAY__Completed__c,TASKRAY__SortOrder__c,TASKRAY__trChecklistGroup__c,TASKRAY__trLongName__c
+$Item1,Gather items for the welcome package,$Task6,false,1,$Group1,Gather items for the welcome package
+$Item2,Get a list of items for the welcome package,$Task6,false,0,$Group1,Get a list of items for the welcome package

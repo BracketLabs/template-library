@@ -1,0 +1,9 @@
+Id,TASKRAY__trSuccessorTask__c,TASKRAY__trDependencyType__c,TASKRAY__trLag__c,TASKRAY__trPredecessorTask__c
+$Dependency1,$Task9,Finish-To-Start,0,$Task2
+$Dependency2,$Task1,Finish-To-Start,5,$Task8
+$Dependency3,$Task4,Finish-To-Start,0,$Task7
+$Dependency4,$Task2,Finish-To-Start,0,$Task6
+$Dependency5,$Task3,Finish-To-Start,0,$Task1
+$Dependency6,$Task8,Finish-To-Start,0,$Task9
+$Dependency7,$Task7,Finish-To-Start,0,$Task3
+$Dependency8,$Task6,Finish-To-Start,0,$Task5

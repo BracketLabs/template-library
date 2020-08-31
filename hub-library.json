@@ -1,12 +1,7 @@
 [
   {
-    "id": "example1",
-    "title": "Example 1",
-    "description": "Example 1 Description."
-  },
-  {
-    "id": "example2",
-    "title": "Example 1",
-    "description": "Example 2 Description."
+    "id": "onboarding",
+    "title": "Best Practices Template - Customer Onboarding",
+    "description": "TODO"
   }
 ]
