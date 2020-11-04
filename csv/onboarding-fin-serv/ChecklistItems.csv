@@ -1,0 +1,5 @@
+Id,Name,TASKRAY__Project_Task__c,TASKRAY__Completed__c,TASKRAY__SortOrder__c,TASKRAY__trChecklistGroup__c,TASKRAY__trLongName__c,TASKRAY__trOwner__c
+$Item1,Financial Plan,$Task2,false,0,$Group1,Financial Plan,$User: Robert Boyd
+$Item2,Investment Portfolio,$Task2,false,1,$Group1,Investment Portfolio,$User: Robert Boyd
+$Item3,Billing Procedures,$Task2,false,2,$Group1,Billing Procedures,$User: Robert Boyd
+$Item4,Ongoing Services,$Task2,false,3,$Group1,Ongoing Services,$User: Robert Boyd

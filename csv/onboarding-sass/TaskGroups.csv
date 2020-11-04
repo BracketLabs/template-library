@@ -1,0 +1,4 @@
+Id,Name,TASKRAY__Project__c,TASKRAY__trArchived__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trEndDate__c,TASKRAY__trSortOrder__c,TASKRAY__trStartDate__c
+$TaskGroup1,Phase 3,$Project1,false,0,$T+19,2,$T+14
+$TaskGroup2,Phase 2,$Project1,false,0,$T+13,1,$T+7
+$TaskGroup3,Phase 1,$Project1,false,0,$T+6,0,$T+0

@@ -1,7 +1,16 @@
 [
   {
-    "id": "onboarding",
+    "id": "onboarding-sass",
     "title": "Best Practices Template - Customer Onboarding",
     "description": "A project template that includes tasks for basic customer onboarding best practices."
+  },
+  {
+    "id": "onboarding-sass",
+    "title": "SaaS - Customer Onboarding",
+    "description": "A project template that includes tasks for SaaS (software as a service) customer onboarding."
+  },  {
+    "id": "onboarding-fin-serv",
+    "title": "Wealth Management - Client Onboarding",
+    "description": "A project template that includes tasks for wealth management client onboarding."
   }
 ]

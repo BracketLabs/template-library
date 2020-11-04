@@ -1,0 +1,14 @@
+Id,TASKRAY__trSuccessorTask__c,TASKRAY__trDependencyType__c,TASKRAY__trLag__c,TASKRAY__trPredecessorTask__c
+$Dependency1,$Task2,Finish-To-Start,1,$Task6
+$Dependency2,$Task11,Finish-To-Start,0,$Task14
+$Dependency3,$Task13,Finish-To-Start,-1,$Task7
+$Dependency4,$Task7,Finish-To-Start,-1,$Task2
+$Dependency5,$Task5,Finish-To-Start,0,$Task8
+$Dependency6,$Task3,Finish-To-Start,0,$Task9
+$Dependency7,$Task10,Finish-To-Start,0,$Task11
+$Dependency8,$Task9,Finish-To-Start,1,$Task10
+$Dependency9,$Task6,Finish-To-Start,0,$Task3
+$Dependency10,$Task12,Finish-To-Start,0,$Task1
+$Dependency11,$Task14,Finish-To-Start,0,$Task5
+$Dependency12,$Task1,Finish-To-Start,0,$Task4
+$Dependency13,$Task8,Finish-To-Start,0,$Task12

@@ -1,0 +1,4 @@
+Id,Name,TASKRAY__Project__c,TASKRAY__trArchived__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trEndDate__c,TASKRAY__trSortOrder__c,TASKRAY__trStartDate__c
+$TaskGroup1,Financial Plan Creation,$Project1,false,0,$T+18,1,$T+12
+$TaskGroup2,Implementation Meeting,$Project1,false,0,$T+21,2,$T+19
+$TaskGroup3,Account Opening,$Project1,false,0,$T+11,0,$T+0
