@@ -1,2 +1,2 @@
-Id,OwnerId,Name,TASKRAY__ProjectColor__c,TASKRAY__Project_End__c,TASKRAY__Project_Start__c,TASKRAY__Status__c,TASKRAY__trAvailableExternal__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trTemplate__c
-$Project1,$User: Alisa Gezalova,Best Practices Template - Customer Onboarding,#00617f,$T+19,$T+0,FALSE,TRUE,0,TRUE
+Id,OwnerId,Name,TASKRAY__ProjectColor__c,TASKRAY__Project_End__c,TASKRAY__Project_Start__c,TASKRAY__Status__c,TASKRAY__trAvailableExternal__c,TASKRAY__trCompletionPercentage__c,TASKRAY__trTemplate__c,TASKRAY__trDraft__c
+$Project1,$User: Alisa Gezalova,Best Practices Template - Customer Onboarding,#00617f,$T+19,$T+0,FALSE,TRUE,0,TRUE,TRUE
